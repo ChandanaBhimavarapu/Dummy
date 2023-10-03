@@ -1,0 +1,56 @@
+1.What is Testing?
+  
+->Testing deals with finding the defects by conducting failure on the application or product.
+->This activity is performed by Testers.
+
+2. What is Software Testing?
+  
+->It is  a process of validating an applicatin against the client requirents for postive and negative test conditions.
+->S/w Testing is a process of identifing  the correctness of s/w by considering it's all attributes(reliablity,scalability,usability...etc) 
+   and evoluating the execution of s/w components to find the s/w bugs (or) errors (or) defects.
+
+3.What is Static Testing?
+
+->It is a verification process and testing is done on the deliverable without executing the build is called static testing.
+->Static Testing is done through inspection ,walk through & reviews.
+
+4.What is Dynamic Testing?
+
+->It is a validation process where the functional and non-functional testing are performed.
+->The Build is exercised in the  run time environment to check it's feature /functionalities,it is called Dynamic Testing.
+ 
+4(1)Verification
+ 
+->It is proces of checking documents,design,code inorder to check if the application meets the user requirements (or) not.
+
+4(2)Validating
+
+->It is process of validating the deliverables against the client requirement.
+
+5.Testing Levels:
+         
+              There are four levels of testing,we have
+                              
+                                 1.Unit Testing.
+
+                                 2.Integration Testing.
+                                 
+                                 3.System Testing.
+                                    
+                                 4.UAT Testing.
+5(A)White Box Testing:
+
+             The internal structure and code of an application .It is done by the developer.
+                                 
+                                 1.Unit Testing.
+                                 
+                                 2.Integration Testing.
+
+                                                                                    
+
+
+
+
+
+
+\

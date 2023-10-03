@@ -1,0 +1,36 @@
+<html>
+<head> 
+<title>ASSIGNMENT 4-1 </title>
+</head>
+<body>
+<div style="height:500;width:30%;float:left; background-color:lightblue;">
+<h1><marquee scrollamount="15" direction="up" height="250"width="250"> HTML </marquee></h1>
+</div>
+<div style="height:250;width:70%;float:right; background-color:orange;">
+<h1><strong><ins style="color:maroon">image</ins></strong></h1>
+<center>
+<img src="html img.jpg"height="150" width="150"></img>
+</center>
+</div>
+<div style="height:250;width:70%;float:left; background-color:lightgreen;">
+<h1><strong><ins style="color:maroon">PARAGRAPH</ins></strong></h1>
+<em>
+<p style="color:red"align="justify">HTML tutorial or HTML 5 tutorial provides basic and advanced concepts of HTML. Our HTML tutorial is developed for beginners and professionals. In our tutorial, every topic is given step-by-step so that you can learn it in a very easy way. If you are new in learning HTML, then you can learn HTML from basic to a professional level and after learning HTML with CSS and JavaScript you will be able to create your own interactive and dynamic website. But Now We will focus on HTML only in this tutorial.</p>
+</em>
+</div>
+
+<div style="height:500;width:30%;float:left; background-color:yellow;">
+<h1><marquee scrollamount="15" direction="up"height="250"width="250">CSS</marquee></h1>
+</div>
+<div style="height:250;width:70%;float:right; background-color:hotpink;">
+<h1><strong><ins style="color:maroon">image</ins></strong></h1>
+</div>
+<div style="height:250;width:70%;float:left; background-color:lime;">
+<h1><strong><ins style="color:maroon">PARAGRAPH</ins></strong></h1>
+<em>
+<p style="color:blue"align="justify" width="400px">Cascading Style Sheets, fondly referred to as CSS, is a simple design language intended to simplify the process of making web pages presentable.
+CSS handles the look and feel part of a web page. Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, what background images or colors are used, layout designs,variations in display for different devices and screen sizes as well as a variety of other effects.</p>
+</em>
+</div>
+</body>
+</html>

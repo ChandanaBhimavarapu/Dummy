@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>ROWSPAN AND COLSPAN</title>
+</head>
+<body>
+<h1><center>ROWSPAN AND COLSPAN </center></h1>
+<table border="3" height="300" width="400" align="center" valign="top">
+<tr align="left" valign="top">
+<td>ONE</td><td>TWO</td><td>THREE</td>
+</tr>
+<tr>
+<td>FOUR</td><td>FIVE</td><td>SIX</td>
+</tr>
+<tr>
+<td>SEVEN</td><td>EIGHT</td><td>NINE</td>
+</tr>
+</table>
+</table>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>HEADER AND FOOTER</title>
+</head>
+<body>
+<table border="1">
+<tr>
+<td>1201</td><td>Ravi</td><td>350</td>
+</tr>
+<tr>
+<td>1202</td><td>prakash</td><td>480</td>
+</tr>
+<t header>
+<th>s.no</th><th>s.name</th><th>marks</th>
+</t header>
+<t foot>
+<tr>
+<td>THE END</td><td>OK</td><td>CANCLE</td>
+</tr>
+</tfoot>
+</body>
+</html>

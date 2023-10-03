@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>DIVISION 1</title>
+</head>
+<body>
+    <div style="height:100px; background-color:skyblue;">
+	<marquee><h1><center style="color:yellow">NAVIGATION BAR</center></h1></marquee>
+	</div>
+	<div style="height:400px; background-color:pink; float:left; width:50%;">
+	<h1><center>INTRODUCTION</center></h1>
+	<center>
+	<em>
+	<p style="width:270px;" align="justify">
+	Harry’s world gets turned upside down on his 11th birthday, however. A magical half-giant, Hagrid, informs Harry that he’s really a wizard, and will soon be attending Hogwarts School of Witchcraft and Wizardry. Harry also learns that, in the wizarding world, he’s a hero. When he was an infant, the evil Lord Voldemort killed his parents and then tried to kill Harry too. What’s so amazing to everyone is that Harry survived, and allegedly destroyed Voldemort in the process.</p>
+	</em>
+	</center>
+	</div>
+	<div style="height:400px; background-color:red; float:right; width:50%;">
+	<h1><center>ADVERTISEMENT</center></h1>
+	<img src="google.jpg" style="height:250; width:250;"></img>
+	</div>
+	<div style="height:100px; background-color:green; float:right; width:100%;">
+	<h1><center>CONTACT US</center></h1>
+	</div>
+	<div style="height:100px; width:100%;float:left; background-color:blue;">
+	<h1><center>COPYRIGHT</center></h1>
+	</div>
+
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>FIELDSET</title>
+</head>
+<body>
+<h1><center><ins>SET OF FIELDS</ins></center></h1>
+<form>
+<fieldset style="width:500px;height:200px;">
+<center>
+<label>ENTER FULL NAME</label>
+<input></input>
+<br></br>
+<label>ENTER LAST NAME</label>
+<input></input>
+<br></br>
+<input type="submit" value="ADD"></input>
+</center>
+</fieldset>
+</form>
+</body>
+</html>

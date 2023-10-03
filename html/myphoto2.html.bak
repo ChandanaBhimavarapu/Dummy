@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> my photo</title>
+</head>
+<body style="background-color:;">
+<h1><center><ins><strong style="color:red;"> MY PHOTO </strong></ins></center></h1>
+<center><img src="MYPHOTO.jpg; height:350; width:350;">
+</img></center>
+</body>
+</html>
